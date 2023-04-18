@@ -1,0 +1,40 @@
+.App {
+  background-color: skyblue;
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bird {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: yellow;
+  border-radius: 50%;
+}
+
+.pipe {
+  position: absolute;
+  width: 100px;
+  height: 600px;
+  background-color: green;
+}
+
+.pipe::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  width: 100px;
+  height: 20px;
+  background-color: darkgreen;
+}
+
+.pipe::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  width: 100px;
+  height: 20px;
+  background-color: darkgreen;
+}
