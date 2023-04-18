@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hksw_Fgame/static/css/main.227b82f8.css",
+    "main.js": "/hksw_Fgame/static/js/main.063102e3.js",
+    "static/js/787.1913b6da.chunk.js": "/hksw_Fgame/static/js/787.1913b6da.chunk.js",
+    "index.html": "/hksw_Fgame/index.html",
+    "main.227b82f8.css.map": "/hksw_Fgame/static/css/main.227b82f8.css.map",
+    "main.063102e3.js.map": "/hksw_Fgame/static/js/main.063102e3.js.map",
+    "787.1913b6da.chunk.js.map": "/hksw_Fgame/static/js/787.1913b6da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227b82f8.css",
+    "static/js/main.063102e3.js"
+  ]
+}
